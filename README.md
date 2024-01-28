@@ -1,6 +1,3 @@
-```python
-from Me.Myself import I
-```
 <img align="right" height="250em" src="https://media1.giphy.com/media/Ifm1CfPNDDQAFWOjJu/giphy.gif?cid=ecf05e47ae8a0ce9vc6nhetyrkz4t8hrstj5io9mtekymghr&ep=v1_gifs_related&rid=giphy.gif&ct=g"> 
 
 
@@ -10,7 +7,6 @@ from Me.Myself import I
 
 ### Quem sou eu... 
 - Futuro Engenheiro da Computação. 💻
-- Estudando para a certificação de Associate Cloud Engineer. ☁️ 
 - Apaixonado por tecnologia e por desafios. 🚀
 
 ```python
