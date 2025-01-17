@@ -13,7 +13,7 @@
 class Skills:
 
   def code():
-    return [Python, GO, Java, HTML, CSS, Javascript]
+    return [Python, GO, Java, React, HTML, CSS, Javascript]
 
   def database():
     return [PostgreSQL, SQLite, MongoDB]
@@ -22,8 +22,5 @@ class Skills:
     return [Google Cloud, Heroku]
 
   def tools_and_frameworks():
-    return [Django, Flask, Pytest, Gin, Docker]
-
-  def __extra__():
-    return "Acima de tudo rubro-negro ❤️"
+    return [Django, Flask, Pytest, Spring, Next, Gin, Docker]
 ```
