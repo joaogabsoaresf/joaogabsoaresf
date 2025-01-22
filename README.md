@@ -4,6 +4,7 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Eai, me chamo João Gabriel Soares</h1>
 
 [![Linkedin: joaogabsoares](https://img.shields.io/badge/-joaogabsoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaogabsoares/)](https://www.linkedin.com/in/joaogabsoares/)
+![Codewars](https://www.codewars.com/users/jotagez/badges/small)
 
 ### Quem sou eu... 
 - Futuro Engenheiro da Computação. 💻
