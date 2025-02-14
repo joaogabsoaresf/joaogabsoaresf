@@ -1,14 +1,20 @@
-<img align="right" height="250em" src="https://media1.giphy.com/media/Ifm1CfPNDDQAFWOjJu/giphy.gif?cid=ecf05e47ae8a0ce9vc6nhetyrkz4t8hrstj5io9mtekymghr&ep=v1_gifs_related&rid=giphy.gif&ct=g"> 
-
-
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Eai, me chamo João Gabriel Soares</h1>
 
 [![Linkedin: joaogabsoares](https://img.shields.io/badge/-joaogabsoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaogabsoares/)](https://www.linkedin.com/in/joaogabsoares/)
 ![Codewars](https://www.codewars.com/users/jotagez/badges/small)
 
-### Quem sou eu... 
-- Futuro Engenheiro da Computação. 💻
-- Apaixonado por tecnologia e por desafios. 🚀
+<table>
+	<tr>
+		<td><code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code></td>
+		<td><code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" alt="Django" title="Django"/></code></td>
+		<td><code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go"/></code></td>
+		<td><code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code></td>
+		<td><code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/></code></td>
+		<td><code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code></td>
+		<td><code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" alt="redis" title="redis"/></code></td>
+		<td><code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" alt="GCP" title="GCP"/></code></td>
+	</tr>
+</table>
 
 ```python
 class Skills:
