@@ -25,10 +25,10 @@ class Skills:
     return [Python, GO, Java, TypeScript, Node, Bun]
 
   def database():
-    return [PostgreSQL, SQLite, MongoDB]
+    return [PostgreSQL, SQLite, MySQL, MongoDB]
 
   def cloud():
-    return [Google Cloud, Heroku]
+    return [Google Cloud, AWS, Magalu Cloud, Heroku]
 
   def tools_and_frameworks():
     return [Django, Flask, Pytest, Spring, Elysia, Gin, Docker]
