@@ -22,7 +22,7 @@
 class Skills:
 
   def code():
-    return [Python, GO, Java, React, HTML, CSS, Javascript]
+    return [Python, GO, Java, TypeScript, Node, Bun]
 
   def database():
     return [PostgreSQL, SQLite, MongoDB]
@@ -31,5 +31,5 @@ class Skills:
     return [Google Cloud, Heroku]
 
   def tools_and_frameworks():
-    return [Django, Flask, Pytest, Spring, Next, Gin, Docker]
+    return [Django, Flask, Pytest, Spring, Elysia, Gin, Docker]
 ```
